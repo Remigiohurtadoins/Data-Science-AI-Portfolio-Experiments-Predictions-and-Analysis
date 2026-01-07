@@ -1,0 +1,5 @@
+
+Cite this paper
+Hurtado, R., Ayora, E. (2025). Intelligent System for Predicting Bank Policy Acceptance by Ensemble Machine Learning and Model Explanation. In: Inga Ortega, E.M., García Herranz, N., Robles-Bykbaev, V.E., Gallego Diaz, E. (eds) Systems, Smart Technologies, and Innovation for Society. CITIS 2024. Lecture Notes in Networks and Systems, vol 1331. Springer, Cham. https://doi.org/10.1007/978-3-031-87065-1_41
+
+Link: https://link.springer.com/chapter/10.1007/978-3-031-87065-1_41
