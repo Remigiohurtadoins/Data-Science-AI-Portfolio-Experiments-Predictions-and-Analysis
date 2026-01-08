@@ -159,21 +159,21 @@
   ---
   📚 Key Notebooks
 
-  Recommended Starting Points
+  **Recommended Starting Points**
 
-  1. Classical_ML/Neural_Network_Optimization
+  ### 1. Classical_ML/Neural_Network_Optimization**
     - Comprehensive hyperparameter tuning
     - Learning rate scheduling
     - Model architecture exploration
-  2. Deep_Learning/CNN_Transfer_Learning
+  ### 2. Deep_Learning/CNN_Transfer_Learning
     - Pre-trained model fine-tuning
     - Image augmentation strategies
     - Performance comparison
-  3. Production_Deployment/Flask_Django_Model_API
+  ### 3. Production_Deployment/Flask_Django_Model_API
     - REST API design patterns
     - Model serving best practices
     - Error handling and logging
-  4. Production_Deployment/Spanish_Sentiment_Classifier/Django
+  ### 4. Production_Deployment/Spanish_Sentiment_Classifier/Django
     - End-to-end NLP pipeline
     - Text preprocessing for Spanish
     - Django production deployment
