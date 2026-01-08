@@ -1,0 +1,7 @@
+Dataset basado en: http://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+
+17 Atributos (variables)
+1 Salida (1: Buen Cliente 2: Mal Cliente)
+1000 Clientes (instancias/muestras/samples)
+
+

@@ -1,0 +1,91 @@
+fecha,id_producto,nombre_producto,desc_producto,fecha_elaboracion,fecha_vencimiento,stock,cantidad_vendida,cantidad_solicitada
+2023-01-01,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,124,0,3
+2023-01-01,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,189,8,8
+2023-01-01,P003,Pan,Producto de panadería,2022-12-20,,65,7,7
+2023-01-02,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,68,9,9
+2023-01-02,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,119,28,29
+2023-01-02,P003,Pan,Producto de panadería,2022-12-20,,126,28,30
+2023-01-03,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,139,26,26
+2023-01-03,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,141,12,20
+2023-01-03,P003,Pan,Producto de panadería,2022-12-20,,183,4,8
+2023-01-04,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,66,6,12
+2023-01-04,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,133,26,31
+2023-01-04,P003,Pan,Producto de panadería,2022-12-20,,53,17,20
+2023-01-05,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,155,14,17
+2023-01-05,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,157,24,25
+2023-01-05,P003,Pan,Producto de panadería,2022-12-20,,163,3,10
+2023-01-06,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,173,6,9
+2023-01-06,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,144,25,32
+2023-01-06,P003,Pan,Producto de panadería,2022-12-20,,191,22,29
+2023-01-07,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,191,19,19
+2023-01-07,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,116,29,30
+2023-01-07,P003,Pan,Producto de panadería,2022-12-20,,54,1,4
+2023-01-08,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,179,14,18
+2023-01-08,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,93,3,12
+2023-01-08,P003,Pan,Producto de panadería,2022-12-20,,86,2,10
+2023-01-09,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,78,14,19
+2023-01-09,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,164,10,13
+2023-01-09,P003,Pan,Producto de panadería,2022-12-20,,163,10,15
+2023-01-10,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,131,24,32
+2023-01-10,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,140,5,10
+2023-01-10,P003,Pan,Producto de panadería,2022-12-20,,67,28,35
+2023-01-11,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,199,11,11
+2023-01-11,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,155,19,23
+2023-01-11,P003,Pan,Producto de panadería,2022-12-20,,130,9,16
+2023-01-12,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,169,12,15
+2023-01-12,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,98,10,18
+2023-01-12,P003,Pan,Producto de panadería,2022-12-20,,159,20,21
+2023-01-13,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,124,23,24
+2023-01-13,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,196,26,29
+2023-01-13,P003,Pan,Producto de panadería,2022-12-20,,157,12,20
+2023-01-14,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,158,4,8
+2023-01-14,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,64,1,4
+2023-01-14,P003,Pan,Producto de panadería,2022-12-20,,124,28,37
+2023-01-15,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,142,20,27
+2023-01-15,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,127,11,14
+2023-01-15,P003,Pan,Producto de panadería,2022-12-20,,61,21,28
+2023-01-16,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,112,28,31
+2023-01-16,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,136,3,3
+2023-01-16,P003,Pan,Producto de panadería,2022-12-20,,63,26,33
+2023-01-17,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,138,6,10
+2023-01-17,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,123,25,25
+2023-01-17,P003,Pan,Producto de panadería,2022-12-20,,77,24,31
+2023-01-18,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,175,6,14
+2023-01-18,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,63,13,19
+2023-01-18,P003,Pan,Producto de panadería,2022-12-20,,104,3,6
+2023-01-19,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,84,19,26
+2023-01-19,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,121,24,29
+2023-01-19,P003,Pan,Producto de panadería,2022-12-20,,189,3,3
+2023-01-20,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,79,12,15
+2023-01-20,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,157,26,32
+2023-01-20,P003,Pan,Producto de panadería,2022-12-20,,130,2,6
+2023-01-21,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,84,0,3
+2023-01-21,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,151,28,30
+2023-01-21,P003,Pan,Producto de panadería,2022-12-20,,153,11,20
+2023-01-22,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,69,14,21
+2023-01-22,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,69,22,29
+2023-01-22,P003,Pan,Producto de panadería,2022-12-20,,189,2,6
+2023-01-23,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,58,22,28
+2023-01-23,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,186,6,13
+2023-01-23,P003,Pan,Producto de panadería,2022-12-20,,153,23,25
+2023-01-24,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,51,25,28
+2023-01-24,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,93,20,27
+2023-01-24,P003,Pan,Producto de panadería,2022-12-20,,190,16,25
+2023-01-25,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,175,24,27
+2023-01-25,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,197,27,30
+2023-01-25,P003,Pan,Producto de panadería,2022-12-20,,154,15,18
+2023-01-26,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,92,20,29
+2023-01-26,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,170,9,18
+2023-01-26,P003,Pan,Producto de panadería,2022-12-20,,120,6,12
+2023-01-27,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,51,24,27
+2023-01-27,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,66,8,8
+2023-01-27,P003,Pan,Producto de panadería,2022-12-20,,150,10,15
+2023-01-28,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,120,21,25
+2023-01-28,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,60,20,23
+2023-01-28,P003,Pan,Producto de panadería,2022-12-20,,67,18,21
+2023-01-29,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,167,27,27
+2023-01-29,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,87,27,36
+2023-01-29,P003,Pan,Producto de panadería,2022-12-20,,120,11,13
+2023-01-30,P001,Manzana,Fruta fresca,2022-12-01,2023-03-01,74,3,9
+2023-01-30,P002,Leche,Lácteo pasteurizado,2022-12-15,2023-01-10,169,19,27
+2023-01-30,P003,Pan,Producto de panadería,2022-12-20,,181,21,27
