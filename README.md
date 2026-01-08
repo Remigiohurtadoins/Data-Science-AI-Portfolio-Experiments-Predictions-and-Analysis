@@ -159,9 +159,9 @@
   ---
   📚 Key Notebooks
 
-  **Recommended Starting Points**
+  ## Recommended Starting Points
 
-  ### 1. Classical_ML/Neural_Network_Optimization**
+  ### 1. Classical_ML/Neural_Network_Optimization
     - Comprehensive hyperparameter tuning
     - Learning rate scheduling
     - Model architecture exploration
