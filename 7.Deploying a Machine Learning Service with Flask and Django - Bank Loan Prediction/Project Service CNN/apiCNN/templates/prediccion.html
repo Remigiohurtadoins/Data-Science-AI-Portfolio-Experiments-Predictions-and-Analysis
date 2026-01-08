@@ -1,0 +1,44 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CNN PROJECT</title><meta charset="UTF-8"
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+  <body>
+    
+    <script>
+        function goBack() {
+            window.history.back();
+            return false
+        }
+    </script>
+  
+    <div class="testbox" style="position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%); /* IE 9 */
+    -webkit-transform: translate(-50%, -50%); width: 60%; height: 70%; max-width: 900px;">
+    <form action="/">
+      <div class="banner">
+        <h1>Predicción del Sistema</h1>
+      </div>
+        <br>
+        <h1 style="color: black">La siguiente imagen: </h1><br><br>
+        <img src="{{ url_img }}">
+      <div class="item">
+          <p><strong>Fue predicha como la siguiente clase: {{ pred }}</strong></p>
+      </div>
+      <div class="item">
+          <p><strong>Con una probabilidad del {{ prob }}</strong></p>
+      </div>
+      <div class="item" style="width: 100%">
+          <input onclick="goBack()" type="button" value="Regresar A La Página Anterior">
+      </div>
+    </form>
+    </div>
+  </body>
+</html>url_img
